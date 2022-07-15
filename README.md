@@ -1,7 +1,7 @@
-# :rocket: :rocket: :rocket: Coming soon: Full Stack Web Developer!!!
+# Full Stack Web Developer!!! :rocket: :rocket: :rocket:
 
 ## There is not better time than right now :clock12: :clock3: :clock6:
-:books: :books: Learning html, css, react, redux, mongo... :books: :books:  
+:books: :books: Javascript, React, Mongo, Express, Git, Scrum, Node, Next, Sequelize, Postgresql... :books: :books:  
 Pivoting my carrer and enjoying challenges... :muscle: :muscle: :muscle:
 
 
